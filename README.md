@@ -1,0 +1,1 @@
+literally just "go run main.go" lol
